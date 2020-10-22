@@ -20,7 +20,3 @@ I'm a massive advocate for emerging technologies such as serverless computing, m
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-### Thanks for scrolling this far!
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">

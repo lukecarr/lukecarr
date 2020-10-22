@@ -15,3 +15,8 @@ I'm a massive advocate for emerging technologies such as serverless computing, m
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
 - **[Parakeet](https://github.com/lukecarr/parakeet)**: Super fast URL shortening with Fastify
 - **[Secret Forklift](https://github.com/lukecarr/secret-forklift)**: Simple and secure AWS secrets loader for Node.js
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

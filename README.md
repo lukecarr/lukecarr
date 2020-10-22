@@ -8,9 +8,8 @@ I'm a massive advocate for emerging technologies such as serverless computing, m
 
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lukecarr&layout=compact)
 
-#### OSS Projects
+🔭 I’m currently working on:
 
-🔭 I’m currently working on **[Joodle](https://github.com/lukecarr/joodle)** (a Moodle web services API client for Node.js), and **[Parakeet](https://github.com/lukecarr/parakeet)** (a super fast URL shortener made with Fastify)!
-
-[![Joodle](https://github-readme-stats.vercel.app/api/pin/?username=lukecarr&repo=joodle)](https://github.com/lukecarr/joodle)
-[![Parakeet](https://github-readme-stats.vercel.app/api/pin/?username=lukecarr&repo=parakeet)](https://github.com/lukecarr/parakeet)
+- **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
+- **[Parakeet](https://github.com/lukecarr/parakeet)**: Super fast URL shortening with Fastify
+- **[Secret Forklift](https://github.com/lukecarr/secret-forklift)**: Simple and secure AWS secrets loader for Node.js

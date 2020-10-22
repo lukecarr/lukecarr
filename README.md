@@ -5,6 +5,7 @@ Hi, I'm Luke! As a Digital Learning Engineer at the Ted Wragg Trust, I operate c
 I'm a massive advocate for emerging technologies such as serverless computing, machine learning, and cloud computing, and look to integrate them into the classroom whenever and wherever possible. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukecarr&show_icons=true)
+
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lukecarr&layout=compact)
 
 #### OSS Projects

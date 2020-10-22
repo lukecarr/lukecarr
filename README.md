@@ -19,4 +19,9 @@ I'm a massive advocate for emerging technologies such as serverless computing, m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/lukecarr/parakeet/pull/1) in [lukecarr/parakeet](https://github.com/lukecarr/parakeet)
+2. 💪 Opened PR [#1](https://github.com/lukecarr/parakeet/pull/1) in [lukecarr/parakeet](https://github.com/lukecarr/parakeet)
+3. ❗️ Opened issue [#4](https://github.com/rschrenk/moodle-filter_h5p/issues/4) in [rschrenk/moodle-filter_h5p](https://github.com/rschrenk/moodle-filter_h5p)
+4. 🗣 Commented on [#11](https://github.com/catalyst/moodle-local_cohortauto/issues/11) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
+5. 🗣 Commented on [#11](https://github.com/catalyst/moodle-local_cohortauto/issues/11) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
 <!--END_SECTION:activity-->

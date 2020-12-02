@@ -12,8 +12,9 @@ I'm a massive advocate for emerging technologies such as serverless computing, m
 
 🔭 I’m currently working on:
 
+- **[Lassiter](https://github.com/lassiter-mis)**: An open-source, highly-performant management information system for schools.
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
-- **[Parakeet](https://github.com/lukecarr/parakeet)**: Super fast URL shortening with Fastify
+- **[Parakeet](https://github.com/lukecarr/parakeet)**: Super fast URL shortening with Go
 - **[Secret Forklift](https://github.com/lukecarr/secret-forklift)**: Simple and secure AWS secrets loader for Node.js
 
 ### :zap: Recent Activity

@@ -4,7 +4,9 @@
 
 Hi, I'm Luke! As a Digital Learning Engineer at the Ted Wragg Trust, I operate closely with teaching staff across the trust to design and develop empowering solutions for the classroom that embraces technology. With a substantial focus on automation, my role strives to reduce the time spent by teachers manually uploading and creating content on learning management systems.
 
-I'm a massive advocate for emerging technologies such as serverless computing, machine learning, and cloud computing, and look to integrate them into the classroom whenever and wherever possible. 
+I'm a massive advocate for emerging technologies such as serverless computing, machine learning, and cloud computing, and look to integrate them into the classroom whenever and wherever possible. As of December 2020, I'm an associate member of the Free Software Foundation.
+
+![FSF Member](https://static.fsf.org/nosvn/associate/crm/5272261.png)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukecarr&show_icons=true)
 

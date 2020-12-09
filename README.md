@@ -22,9 +22,9 @@ I'm a massive advocate for emerging technologies such as serverless computing, m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#157](https://github.com/bitnami/bitnami-docker-moodle/issues/157) in [bitnami/bitnami-docker-moodle](https://github.com/bitnami/bitnami-docker-moodle)
-2. ❌ Closed PR [#1](https://github.com/lukecarr/lukecarr.dev/pull/1) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
-3. ❌ Closed PR [#2](https://github.com/lukecarr/lukecarr.dev/pull/2) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
-4. ❌ Closed PR [#3](https://github.com/lukecarr/lukecarr.dev/pull/3) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
-5. 🎉 Merged PR [#2](https://github.com/lukecarr/parakeet/pull/2) in [lukecarr/parakeet](https://github.com/lukecarr/parakeet)
+1. 🗣 Commented on [#7](https://github.com/lukecarr/joodle/issues/7) in [lukecarr/joodle](https://github.com/lukecarr/joodle)
+2. ❗️ Opened issue [#157](https://github.com/bitnami/bitnami-docker-moodle/issues/157) in [bitnami/bitnami-docker-moodle](https://github.com/bitnami/bitnami-docker-moodle)
+3. ❌ Closed PR [#1](https://github.com/lukecarr/lukecarr.dev/pull/1) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
+4. ❌ Closed PR [#2](https://github.com/lukecarr/lukecarr.dev/pull/2) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
+5. ❌ Closed PR [#3](https://github.com/lukecarr/lukecarr.dev/pull/3) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
 <!--END_SECTION:activity-->

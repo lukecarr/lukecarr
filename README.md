@@ -22,9 +22,9 @@ I'm a massive advocate for emerging technologies such as serverless computing, m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
-2. 🗣 Commented on [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
-3. ❗️ Opened issue [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
-4. ❗️ Opened issue [#11](https://github.com/lukecarr/joodle/issues/11) in [lukecarr/joodle](https://github.com/lukecarr/joodle)
-5. 🎉 Merged PR [#10](https://github.com/lukecarr/joodle/pull/10) in [lukecarr/joodle](https://github.com/lukecarr/joodle)
+1. 🎉 Merged PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
+2. 💪 Opened PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
+3. ❗️ Closed issue [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
+4. 🗣 Commented on [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
+5. ❗️ Opened issue [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
 <!--END_SECTION:activity-->

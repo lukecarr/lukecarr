@@ -22,9 +22,9 @@ I'm a massive advocate for emerging technologies such as serverless computing, m
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
-2. 💪 Opened PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
-3. ❗️ Closed issue [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
-4. 🗣 Commented on [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
-5. ❗️ Opened issue [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
+1. ❌ Closed PR [#4](https://github.com/lukecarr/lukecarr.dev/pull/4) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
+2. 🎉 Merged PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
+3. 💪 Opened PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
+4. ❗️ Closed issue [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
+5. 🗣 Commented on [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
 <!--END_SECTION:activity-->

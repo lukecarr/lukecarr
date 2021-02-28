@@ -18,9 +18,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/elytrapkg/nano/pull/1) in [elytrapkg/nano](https://github.com/elytrapkg/nano)
-2. 🎉 Merged PR [#2](https://github.com/elytrapkg/nano/pull/2) in [elytrapkg/nano](https://github.com/elytrapkg/nano)
-3. 💪 Opened PR [#2](https://github.com/elytrapkg/nano/pull/2) in [elytrapkg/nano](https://github.com/elytrapkg/nano)
-4. 💪 Opened PR [#1](https://github.com/elytrapkg/nano/pull/1) in [elytrapkg/nano](https://github.com/elytrapkg/nano)
-5. ❌ Closed PR [#4](https://github.com/lukecarr/lukecarr.dev/pull/4) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
+1. 🗣 Commented on [#2](https://github.com/lukecarr/ollivander/issues/2) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
+2. 🎉 Merged PR [#1](https://github.com/elytrapkg/nano/pull/1) in [elytrapkg/nano](https://github.com/elytrapkg/nano)
+3. 🎉 Merged PR [#2](https://github.com/elytrapkg/nano/pull/2) in [elytrapkg/nano](https://github.com/elytrapkg/nano)
+4. 💪 Opened PR [#2](https://github.com/elytrapkg/nano/pull/2) in [elytrapkg/nano](https://github.com/elytrapkg/nano)
+5. 💪 Opened PR [#1](https://github.com/elytrapkg/nano/pull/1) in [elytrapkg/nano](https://github.com/elytrapkg/nano)
 <!--END_SECTION:activity-->

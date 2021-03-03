@@ -18,9 +18,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/lukecarr/ollivander/issues/2) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
-2. ❌ Closed PR [#4](https://github.com/lukecarr/lukecarr.dev/pull/4) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
-3. 🎉 Merged PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
-4. 💪 Opened PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
-5. ❗️ Closed issue [#13](https://github.com/catalyst/moodle-local_cohortauto/issues/13) in [catalyst/moodle-local_cohortauto](https://github.com/catalyst/moodle-local_cohortauto)
+1. 🎉 Merged PR [#3](https://github.com/lassiter-mis/website/pull/3) in [lassiter-mis/website](https://github.com/lassiter-mis/website)
+2. 🗣 Commented on [#2](https://github.com/lukecarr/ollivander/issues/2) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
+3. ❌ Closed PR [#4](https://github.com/lukecarr/lukecarr.dev/pull/4) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
+4. 🎉 Merged PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
+5. 💪 Opened PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
 <!--END_SECTION:activity-->

@@ -18,9 +18,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/lassiter-mis/website/pull/3) in [lassiter-mis/website](https://github.com/lassiter-mis/website)
-2. 🗣 Commented on [#2](https://github.com/lukecarr/ollivander/issues/2) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
-3. ❌ Closed PR [#4](https://github.com/lukecarr/lukecarr.dev/pull/4) in [lukecarr/lukecarr.dev](https://github.com/lukecarr/lukecarr.dev)
-4. 🎉 Merged PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
-5. 💪 Opened PR [#1](https://github.com/lukecarr/ollivander/pull/1) in [lukecarr/ollivander](https://github.com/lukecarr/ollivander)
+1. 🎉 Merged PR [#2](https://github.com/tedwragg/oss/pull/2) in [tedwragg/oss](https://github.com/tedwragg/oss)
+2. 💪 Opened PR [#2](https://github.com/tedwragg/oss/pull/2) in [tedwragg/oss](https://github.com/tedwragg/oss)
+3. 🎉 Merged PR [#1](https://github.com/tedwragg/oss/pull/1) in [tedwragg/oss](https://github.com/tedwragg/oss)
+4. 💪 Opened PR [#1](https://github.com/tedwragg/oss/pull/1) in [tedwragg/oss](https://github.com/tedwragg/oss)
+5. 🎉 Merged PR [#3](https://github.com/lassiter-mis/website/pull/3) in [lassiter-mis/website](https://github.com/lassiter-mis/website)
 <!--END_SECTION:activity-->

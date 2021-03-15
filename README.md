@@ -18,9 +18,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/tedwragg/oss/pull/2) in [tedwragg/oss](https://github.com/tedwragg/oss)
-2. 💪 Opened PR [#2](https://github.com/tedwragg/oss/pull/2) in [tedwragg/oss](https://github.com/tedwragg/oss)
-3. 🎉 Merged PR [#1](https://github.com/tedwragg/oss/pull/1) in [tedwragg/oss](https://github.com/tedwragg/oss)
-4. 💪 Opened PR [#1](https://github.com/tedwragg/oss/pull/1) in [tedwragg/oss](https://github.com/tedwragg/oss)
-5. 🎉 Merged PR [#3](https://github.com/lassiter-mis/website/pull/3) in [lassiter-mis/website](https://github.com/lassiter-mis/website)
+1. ❗️ Opened issue [#24](https://github.com/valentineus/moodle-webhooks/issues/24) in [valentineus/moodle-webhooks](https://github.com/valentineus/moodle-webhooks)
+2. 🎉 Merged PR [#2](https://github.com/tedwragg/oss/pull/2) in [tedwragg/oss](https://github.com/tedwragg/oss)
+3. 💪 Opened PR [#2](https://github.com/tedwragg/oss/pull/2) in [tedwragg/oss](https://github.com/tedwragg/oss)
+4. 🎉 Merged PR [#1](https://github.com/tedwragg/oss/pull/1) in [tedwragg/oss](https://github.com/tedwragg/oss)
+5. 💪 Opened PR [#1](https://github.com/tedwragg/oss/pull/1) in [tedwragg/oss](https://github.com/tedwragg/oss)
 <!--END_SECTION:activity-->

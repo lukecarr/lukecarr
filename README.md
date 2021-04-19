@@ -10,7 +10,6 @@
 
 🔭 I’m currently working on:
 
-- **[Moducate](https://github.com/moducate)**: An open-source education stack for schools
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
 - **[Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js
 - **[Secret Forklift](https://github.com/lukecarr/secret-forklift)**: Simple and secure AWS secrets loader for Node.js

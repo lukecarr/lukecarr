@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/valentineus/moodle-webhooks/issues/24) in [valentineus/moodle-webhooks](https://github.com/valentineus/moodle-webhooks)
-2. 🎉 Merged PR [#2](https://github.com/tedwragg/oss/pull/2) in [tedwragg/oss](https://github.com/tedwragg/oss)
-3. 💪 Opened PR [#2](https://github.com/tedwragg/oss/pull/2) in [tedwragg/oss](https://github.com/tedwragg/oss)
-4. 🎉 Merged PR [#1](https://github.com/tedwragg/oss/pull/1) in [tedwragg/oss](https://github.com/tedwragg/oss)
-5. 💪 Opened PR [#1](https://github.com/tedwragg/oss/pull/1) in [tedwragg/oss](https://github.com/tedwragg/oss)
+1. ❗️ Opened issue [#4](https://github.com/lukecarr/c9h/issues/4) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+2. ❗️ Opened issue [#3](https://github.com/lukecarr/c9h/issues/3) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+3. ❗️ Opened issue [#2](https://github.com/lukecarr/c9h/issues/2) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+4. ❗️ Closed issue [#1](https://github.com/lukecarr/c9h/issues/1) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+5. 🗣 Commented on [#1](https://github.com/lukecarr/c9h/issues/1) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
 <!--END_SECTION:activity-->

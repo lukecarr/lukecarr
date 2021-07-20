@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/lukecarr/c9h/issues/4) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
-2. ❗️ Opened issue [#3](https://github.com/lukecarr/c9h/issues/3) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
-3. ❗️ Opened issue [#2](https://github.com/lukecarr/c9h/issues/2) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
-4. ❗️ Closed issue [#1](https://github.com/lukecarr/c9h/issues/1) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
-5. 🗣 Commented on [#1](https://github.com/lukecarr/c9h/issues/1) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+1. ❗️ Closed issue [#3](https://github.com/lukecarr/c9h/issues/3) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+2. 🗣 Commented on [#3](https://github.com/lukecarr/c9h/issues/3) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+3. ❗️ Closed issue [#2](https://github.com/lukecarr/c9h/issues/2) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+4. 🗣 Commented on [#2](https://github.com/lukecarr/c9h/issues/2) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+5. 🗣 Commented on [#4](https://github.com/lukecarr/c9h/issues/4) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
 <!--END_SECTION:activity-->

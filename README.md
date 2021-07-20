@@ -2,8 +2,6 @@
 
 ![Page views](https://visitor-badge.glitch.me/badge?page_id=lukecarr.lukecarr)
 
-![FSF Member](https://static.fsf.org/nosvn/associate/crm/5272261.png)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukecarr&show_icons=true)
 
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lukecarr&layout=compact)

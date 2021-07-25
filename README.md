@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/lukecarr/c9h/pull/9) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
-2. 💪 Opened PR [#9](https://github.com/lukecarr/c9h/pull/9) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
-3. 🗣 Commented on [#5](https://github.com/lukecarr/c9h/issues/5) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
-4. ❗️ Closed issue [#5](https://github.com/lukecarr/c9h/issues/5) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
-5. 🎉 Merged PR [#7](https://github.com/lukecarr/c9h/pull/7) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+1. ❗️ Closed issue [#6](https://github.com/lukecarr/c9h/issues/6) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+2. 🗣 Commented on [#6](https://github.com/lukecarr/c9h/issues/6) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+3. 🎉 Merged PR [#9](https://github.com/lukecarr/c9h/pull/9) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+4. 💪 Opened PR [#9](https://github.com/lukecarr/c9h/pull/9) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
+5. 🗣 Commented on [#5](https://github.com/lukecarr/c9h/issues/5) in [lukecarr/c9h](https://github.com/lukecarr/c9h)
 <!--END_SECTION:activity-->

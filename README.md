@@ -8,9 +8,9 @@
 
 🔭 I’m currently working on:
 
-- **[cottonmouth](https://github.com/lukecarr/c9h)**: Zero-config config for Node.js
+- **[🐍 Cottonmouth](https://github.com/lukecarr/c9h)**: Zero-config config for Node.js
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
-- **[Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js
+- **[🪄 Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js
 
 ### :zap: Recent Activity
 

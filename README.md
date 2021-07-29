@@ -3,14 +3,17 @@
 ![Page views](https://visitor-badge.glitch.me/badge?page_id=lukecarr.lukecarr)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukecarr&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukecarr&include_all_commits=true)
 
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lukecarr&layout=compact)
-
-🔭 I’m currently working on:
+### :telescope: Current Projects
 
 - **[🐍 Cottonmouth](https://github.com/lukecarr/c9h)**: Zero-config config for Node.js
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
 - **[🪄 Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js
+
+### :speaking_head: Languages
+
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lukecarr&layout=compact&hide_title=true&langs_count=10)
 
 ### :zap: Recent Activity
 

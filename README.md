@@ -10,6 +10,7 @@
 - **[🐍 Cottonmouth](https://github.com/lukecarr/c9h)**: Zero-config config for Node.js
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
 - **[🪄 Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js
+- **[Heimdall](https://github.com/moducate/heimdall)**: GraphQL/REST API for schools/MATs using SIMS
 
 ### :speaking_head: Languages
 

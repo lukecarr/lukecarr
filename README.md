@@ -9,7 +9,7 @@
 
 - **[🐍 Cottonmouth](https://github.com/lukecarr/c9h)**: Zero-config config for Node.js
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
-- **[🪄 Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js
+- **[🧙‍♂️ Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js
 - **[🏆 excellent-choice](https://github.com/lukecarr/excellent-choice)**: Excel-based multiple-choice tests
 
 ### :speaking_head: Languages

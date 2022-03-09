@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats-jarrl.vercel.app/api?show_icons=true)
+![GitHub Stats](https://gh-stats-jarrl.vercel.app/api?show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukecarr&include_all_commits=true)
 
 ### :telescope: Current Projects
@@ -12,7 +12,7 @@
 
 ### :speaking_head: Languages
 
-![GitHub Languages](https://github-readme-stats-jarrl.vercel.app/api/top-langs?layout=compact&hide_title=true&langs_count=10)
+![GitHub Languages](https://gh-stats-jarrl.vercel.app/api/top-langs?layout=compact&hide_title=true&langs_count=10)
 
 ### :zap: Recent Activity
 

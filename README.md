@@ -11,24 +11,38 @@ I spend most of my time inside Node.js and I love writing code :computer: that's
 - **[Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js
 - **[excellent-choice](https://github.com/lukecarr/excellent-choice)**: Excel-based multiple-choice tests
 
-### :bar_chart: Stats
+### :octocat: My GitHub
 
-![GitHub Stats](https://gh-stats-jarrl.vercel.app/api?show_icons=true)
+<details>
+  <summary><strong>:bar_chart: Profile Stats</strong></summary>
+  <br />
+  
+  ![GitHub Stats](https://gh-stats-jarrl.vercel.app/api?show_icons=true)
+</details>
 
-### :speaking_head: Languages
+<details>
+  <summary><strong>:speaking_head: Languages</strong></summary>
+  <br />
+  
+  ![GitHub Languages](https://gh-stats-jarrl.vercel.app/api/top-langs?layout=compact&hide_title=true&langs_count=10)
+</details>
 
-![GitHub Languages](https://gh-stats-jarrl.vercel.app/api/top-langs?layout=compact&hide_title=true&langs_count=10)
+<details>
+  <summary><strong>:fire: Current Streak</strong></summary>
+  <br />
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukecarr&include_all_commits=true)
+</details>
 
-### :fire: Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukecarr&include_all_commits=true)
-
-### :zap: Recent Activity
-
+<details>
+  <summary><strong>:zap: Recent Activity</strong></summary>
+  <br />
+  
+  * ⬆️ Pushed 1 commit to lukecarr/lukecarr
 * ⬆️ Pushed 1 commit to lukecarr/pumpernickel
 * ⬆️ Pushed 1 commit to lukecarr/lukecarr
 * ⬆️ Pushed 1 commit to lukecarr/lukecarr
 * ⬆️ Pushed 1 commit to lukecarr/lukecarr
-* ⬆️ Pushed 1 commit to lukecarr/lukecarr
 
-_Last refreshed at 2022-03-17T11:48:41Z_
+  _Last refreshed at 2022-03-17T12:06:06Z_
+</details>

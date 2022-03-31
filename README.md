@@ -38,11 +38,11 @@ I spend most of my time inside Node.js and I love writing code :computer: that's
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ⬆️ Pushed 1 commit to lukecarr/attendance
+  * ⬆️ Pushed 2 commits to lukecarr/alligregator
+* 🎉 Merged PR #1 in lukecarr/alligregator
+* ⬆️ Pushed 1 commit to lukecarr/attendance
 * ⬆️ Pushed 1 commit to lukecarr/alligregator
 * ⬆️ Pushed 1 commit to lukecarr/attendance
-* ⬆️ Pushed 1 commit to lukecarr/attendance
-* ⬆️ Pushed 1 commit to lukecarr/attendance
 
-  _Last refreshed at 2022-03-31T14:48:37Z_
+  _Last refreshed at 2022-03-31T15:05:27Z_
 </details>

@@ -6,6 +6,7 @@ I spend most of my time inside Node.js and I love writing code :computer: that's
 
 ### :telescope: Projects
 
+- **[tiny-todo](https://github.com/lukecarr/tiny-todo)**: A task management tapp (tiny apps)
 - **[Cottonmouth](https://github.com/lukecarr/c9h)**: Zero-config config for Node.js
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
 - **[Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js

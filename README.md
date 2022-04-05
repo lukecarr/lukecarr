@@ -39,11 +39,11 @@ I spend most of my time inside Node.js and I love writing code :computer: that's
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ❗️ Opened issue #11 in lukecarr/tiny-todo
+  * ❗️ Opened issue #12 in lukecarr/tiny-todo
+* ❗️ Opened issue #11 in lukecarr/tiny-todo
 * 📦 Released "v0.1.0-alpha.14" in lukecarr/tiny-todo
 * ⬆️ Pushed 1 commit to lukecarr/tiny-todo
 * ⬆️ Pushed 1 commit to lukecarr/tiny-todo
-* ⬆️ Pushed 1 commit to lukecarr/lukecarr
 
-  _Last refreshed at 2022-04-05T14:48:37Z_
+  _Last refreshed at 2022-04-05T15:05:05Z_
 </details>

@@ -6,6 +6,7 @@ I spend most of my time inside Node.js and I love writing code :computer: that's
 
 ### :telescope: Projects
 
+- **[tiny-todo](https://github.com/lukecarr/tiny-todo)**: A task management tapp (tiny apps)
 - **[Cottonmouth](https://github.com/lukecarr/c9h)**: Zero-config config for Node.js
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
 - **[Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js
@@ -38,11 +39,11 @@ I spend most of my time inside Node.js and I love writing code :computer: that's
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * 📦 Released "Plural derivation" in lukecarr/x
-* ⬆️ Pushed 1 commit to lukecarr/x
-* 📦 Released "Initial Release" in lukecarr/x
-* ⬆️ Pushed 2 commits to lukecarr/x
+  * ⬆️ Pushed 1 commit to lukecarr/tiny-todo
+* ❌ Closed PR #1 in lukecarr/lukecarr
+* 📦 Released "v0.1.0-alpha.11" in lukecarr/tiny-todo
+* ⬆️ Pushed 1 commit to lukecarr/tiny-todo
 * ⬆️ Pushed 1 commit to lukecarr/tiny-todo
 
-  _Last refreshed at 2022-04-05T13:00:47Z_
+  _Last refreshed at 2022-04-05T13:25:17Z_
 </details>

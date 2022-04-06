@@ -41,11 +41,11 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
   
   * ⬆️ Pushed 1 commit to lukecarr/tiny-todo
 * ⬆️ Pushed 1 commit to lukecarr/tiny-todo
+* ⬆️ Pushed 1 commit to lukecarr/tiny-todo
 * ❗️ Opened issue #13 in lukecarr/tiny-todo
 * ❗️ Closed issue #11 in lukecarr/tiny-todo
-* ⬆️ Pushed 2 commits to lukecarr/tiny-todo
 
-  _Last refreshed at 2022-04-06T14:48:44Z_
+  _Last refreshed at 2022-04-06T15:05:10Z_
 </details>
 
 ### :clipboard: Other Stuff

@@ -2,7 +2,7 @@
 
 I'm a 20 y/o developer working on various open source projects relating to education :school: and privacy :eyes:.
 
-I spend most of my time inside Node.js and I love writing code :computer: that's not just functional but beautiful :sparkles: as well.
+I spend most of my time inside Node.js or Go and I take pride in writing code :computer: that's functional :muscle: and readable :sparkles:.
 
 ### :telescope: Projects
 
@@ -42,4 +42,13 @@ I spend most of my time inside Node.js and I love writing code :computer: that's
   <!--GITHUB_ACTIVITY:{"rows": 5, "raw": false}-->
 
   _Last refreshed at <!--TIMESTAMP-->_
+</details>
+
+### :clipboard: Other Stuff
+
+<details>
+  <summary><strong>:trophy: CodersRank</strong></summary>
+  <br />
+
+  [![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lukecarr&show-avatar=false&branding=false&style=--name-font-size:0)](https://profile.codersrank.io/user/lukecarr)
 </details>

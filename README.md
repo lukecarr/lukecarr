@@ -2,7 +2,7 @@
 
 I'm a 20 y/o developer working on various open source projects relating to education :school: and privacy :eyes:.
 
-I spend most of my time inside Node.js and I love writing code :computer: that's not just functional but beautiful :sparkles: as well.
+I spend most of my time inside Node.js or Go and I take pride in writing code :computer: that's functional :muscle: and readable :sparkles:.
 
 ### :telescope: Projects
 
@@ -39,11 +39,20 @@ I spend most of my time inside Node.js and I love writing code :computer: that's
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * 🍴 Forked lukecarr/Lissy93 from Lissy93/Lissy93
+  * ⬆️ Pushed 1 commit to lukecarr/lukecarr
+* 🍴 Forked lukecarr/Lissy93 from Lissy93/Lissy93
 * ❗️ Opened issue #12 in lukecarr/tiny-todo
 * ❗️ Opened issue #11 in lukecarr/tiny-todo
 * 📦 Released "v0.1.0-alpha.14" in lukecarr/tiny-todo
-* ⬆️ Pushed 1 commit to lukecarr/tiny-todo
 
-  _Last refreshed at 2022-04-06T00:17:27Z_
+  _Last refreshed at 2022-04-06T00:49:21Z_
+</details>
+
+### :clipboard: Other Stuff
+
+<details>
+  <summary><strong>:trophy: CodersRank</strong></summary>
+  <br />
+
+  [![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lukecarr&show-avatar=false&branding=false&style=--name-font-size:0)](https://profile.codersrank.io/user/lukecarr)
 </details>

@@ -39,13 +39,13 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ❗️ Opened issue #14 in lukecarr/tiny-todo
+  * ⬆️ Pushed 1 commit to lukecarr/tiny-todo
 * ⬆️ Pushed 1 commit to lukecarr/tiny-todo
 * ⬆️ Pushed 1 commit to lukecarr/tiny-todo
-* 📦 Released "v0.1.0-alpha.17" in lukecarr/tiny-todo
-* ⬆️ Pushed 2 commits to lukecarr/tiny-todo
+* ❗️ Opened issue #14 in lukecarr/tiny-todo
+* ⬆️ Pushed 1 commit to lukecarr/tiny-todo
 
-  _Last refreshed at 2022-04-07T10:48:54Z_
+  _Last refreshed at 2022-04-07T11:04:53Z_
 </details>
 
 ### :clipboard: Other Stuff

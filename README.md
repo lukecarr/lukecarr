@@ -39,13 +39,13 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ⬆️ Pushed 2 commits to lukecarr/skittles
+  * ⬆️ Pushed 1 commit to lukecarr/skittles
+* ⬆️ Pushed 2 commits to lukecarr/skittles
 * ⬆️ Pushed 2 commits to lukecarr/skittles
 * ⬆️ Pushed 7 commits to lukecarr/skittles
 * ⬆️ Pushed 1 commit to lukecarr/skittles
-* ❌ Closed PR #17 in pupilstart/houston
 
-  _Last refreshed at 2022-09-29T12:48:50Z_
+  _Last refreshed at 2022-09-29T13:21:36Z_
 </details>
 
 ### :clipboard: Other Stuff

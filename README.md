@@ -40,12 +40,12 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
   <br />
   
   * ⬆️ Pushed 1 commit to lukecarr/skittles
+* ⬆️ Pushed 1 commit to lukecarr/skittles
 * ⬆️ Pushed 2 commits to lukecarr/skittles
 * ⬆️ Pushed 2 commits to lukecarr/skittles
 * ⬆️ Pushed 7 commits to lukecarr/skittles
-* ⬆️ Pushed 1 commit to lukecarr/skittles
 
-  _Last refreshed at 2022-10-02T20:05:16Z_
+  _Last refreshed at 2022-10-02T20:24:34Z_
 </details>
 
 ### :clipboard: Other Stuff

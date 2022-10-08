@@ -1,12 +1,11 @@
 ### :wave: Hi there!
 
-I'm a 21 y/o developer working on various open source projects relating to data analysis/visualisation :chart_with_upwards_trend: and privacy :eyes:.
+I'm a 20 y/o developer working on various open source projects relating to education :school: and privacy :eyes:.
 
 I spend most of my time inside Node.js or Go and I take pride in writing code :computer: that's functional :muscle: and readable :sparkles:.
 
 ### :telescope: Projects
 
-- **[www](https://github.com/lukecarr/www)**: My personal website
 - **[tiny-todo](https://github.com/lukecarr/tiny-todo)**: A task management tapp (tiny apps)
 - **[Cottonmouth](https://github.com/lukecarr/c9h)**: Zero-config config for Node.js
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
@@ -40,11 +39,20 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ⬆️ Pushed 1 commit to lukecarr/skittles
+  * ⬆️ Pushed 1 commit to lukecarr/lukecarr
+* ⬆️ Pushed 1 commit to lukecarr/lukecarr
 * ⬆️ Pushed 1 commit to lukecarr/skittles
 * ⬆️ Pushed 1 commit to lukecarr/skittles
 * ⬆️ Pushed 1 commit to lukecarr/skittles
-* ⬆️ Pushed 2 commits to lukecarr/skittles
 
-  _Last refreshed at 2022-10-08T11:04:58Z_
+  _Last refreshed at 2022-10-08T11:23:32Z_
+</details>
+
+### :clipboard: Other Stuff
+
+<details>
+  <summary><strong>:trophy: CodersRank</strong></summary>
+  <br />
+
+  [![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lukecarr&show-avatar=false&branding=false&style=--name-font-size:0)](https://profile.codersrank.io/user/lukecarr)
 </details>

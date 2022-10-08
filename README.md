@@ -48,12 +48,3 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
 
   _Last refreshed at 2022-10-08T11:04:58Z_
 </details>
-
-### :clipboard: Other Stuff
-
-<details>
-  <summary><strong>:trophy: CodersRank</strong></summary>
-  <br />
-
-  [![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lukecarr&show-avatar=false&branding=false&style=--name-font-size:0)](https://profile.codersrank.io/user/lukecarr)
-</details>

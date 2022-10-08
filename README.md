@@ -1,11 +1,12 @@
 ### :wave: Hi there!
 
-I'm a 20 y/o developer working on various open source projects relating to education :school: and privacy :eyes:.
+I'm a 21 y/o developer working on various open source projects relating to data analysis/visualisation :chart_with_upwards_trend: and privacy :eyes:.
 
 I spend most of my time inside Node.js or Go and I take pride in writing code :computer: that's functional :muscle: and readable :sparkles:.
 
 ### :telescope: Projects
 
+- **[www](https://github.com/lukecarr/www)**: My personal website
 - **[tiny-todo](https://github.com/lukecarr/tiny-todo)**: A task management tapp (tiny apps)
 - **[Cottonmouth](https://github.com/lukecarr/c9h)**: Zero-config config for Node.js
 - **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js

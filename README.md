@@ -1,6 +1,6 @@
 ### :wave: Hi there!
 
-I'm a 20 y/o developer working on various open source projects relating to education :school: and privacy :eyes:.
+I'm a 21 y/o developer working on various open source projects relating to education :school: and privacy :eyes:.
 
 I spend most of my time inside Node.js or Go and I take pride in writing code :computer: that's functional :muscle: and readable :sparkles:.
 
@@ -39,20 +39,11 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ⬆️ Pushed 1 commit to lukecarr/houston
-* ❌ Closed PR #31 in lukecarr/houston
+  * ⬆️ Pushed 1 commit to lukecarr/lukecarr
 * ⬆️ Pushed 1 commit to lukecarr/houston
 * ⬆️ Pushed 2 commits to lukecarr/houston
-* ❗️ Closed issue #3 in lukecarr/houston
+* ❗️ Closed issue #1 in lukecarr/houston
+* 🎉 Merged PR #34 in lukecarr/houston
 
-  _Last refreshed at 2022-10-11T11:23:56Z_
-</details>
-
-### :clipboard: Other Stuff
-
-<details>
-  <summary><strong>:trophy: CodersRank</strong></summary>
-  <br />
-
-  [![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lukecarr&show-avatar=false&branding=false&style=--name-font-size:0)](https://profile.codersrank.io/user/lukecarr)
+  _Last refreshed at 2022-10-11T11:37:07Z_
 </details>

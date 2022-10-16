@@ -43,7 +43,7 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
 * ⬆️ Pushed 1 commit to lukecarr/crls
 * ⬆️ Pushed 1 commit to lukecarr/crls
 * ⬆️ Pushed 1 commit to lukecarr/crls
-* ⬆️ Pushed 2 commits to lukecarr/crls
+* ⬆️ Pushed 1 commit to lukecarr/crls
 
-  _Last refreshed at 2022-10-16T20:39:21Z_
+  _Last refreshed at 2022-10-16T20:51:45Z_
 </details>

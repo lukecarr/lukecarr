@@ -39,11 +39,11 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ❗️ Opened issue #4 in lukecarr/crls
+  * ❗️ Opened issue #5 in lukecarr/crls
+* ❗️ Opened issue #4 in lukecarr/crls
 * ⬆️ Pushed 1 commit to lukecarr/crls
 * ⬆️ Pushed 1 commit to lukecarr/.github
 * ⬆️ Pushed 1 commit to lukecarr/lukecarr
-* ⬆️ Pushed 1 commit to lukecarr/lukecarr
 
-  _Last refreshed at 2022-10-17T14:43:28Z_
+  _Last refreshed at 2022-10-17T14:58:08Z_
 </details>

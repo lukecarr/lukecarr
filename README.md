@@ -45,5 +45,5 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
 * 🎉 Merged PR #1 in lukecarr/ts-dax
 * ⬆️ Pushed 1 commit to lukecarr/ts-dax
 
-  _Last refreshed at 2022-10-26T21:36:32Z_
+  _Last refreshed at 2022-10-26T21:49:30Z_
 </details>

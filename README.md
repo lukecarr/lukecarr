@@ -40,10 +40,10 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
   <br />
   
   * ⬆️ Pushed 1 commit to lukecarr/ts-dax
-* 🎉 Merged PR #5 in lukecarr/ts-dax
-* 💪 Opened PR #5 in lukecarr/ts-dax
 * ⬆️ Pushed 1 commit to lukecarr/ts-dax
-* ⬆️ Pushed 2 commits to lukecarr/ts-dax
+* 🎉 Merged PR #6 in lukecarr/ts-dax
+* 💪 Opened PR #6 in lukecarr/ts-dax
+* ⬆️ Pushed 1 commit to lukecarr/ts-dax
 
-  _Last refreshed at 2022-11-01T16:25:39Z_
+  _Last refreshed at 2022-11-01T16:45:14Z_
 </details>

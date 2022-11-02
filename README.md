@@ -47,7 +47,7 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
 * 🎉 Merged PR #6 in lukecarr/ts-dax
 * 💪 Opened PR #6 in lukecarr/ts-dax
 
-  _Last refreshed at 2022-11-02T16:25:32Z_
+  _Last refreshed at 2022-11-02T16:46:02Z_
 </details>
 
 

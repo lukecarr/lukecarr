@@ -1,8 +1,10 @@
 ### :wave: Hi there!
 
-I'm a 21 y/o developer working on various open source projects relating to education :school: and privacy :eyes:.
+I'm a 21 y/o from the UK, currently working as a Software Developer at Sitel Group.
 
-I spend most of my time inside Node.js or Go and I take pride in writing code :computer: that's functional :muscle: and readable :sparkles:.
+As far as open source projects go, I enjoy working on anything and everything related to education :school:, privacy :eyes:, and data analysis/engineering :card_file_box:.
+
+I currently spend most of my time in Rust and TypeScript, and I take pride in writing code that's lightweight :bulb: and performant :muscle:!
 
 ### :telescope: Projects
 
@@ -43,3 +45,8 @@ I spend most of my time inside Node.js or Go and I take pride in writing code :c
 
   _Last refreshed at <!--TIMESTAMP-->_
 </details>
+
+
+### :pushpin: Holopin Badges
+
+[![@lukecarr's Holopin board](https://holopin.me/lukecarr)](https://holopin.io/@lukecarr)

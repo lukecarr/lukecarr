@@ -41,13 +41,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * 🍴 Forked lukecarr/js.org from js-org/js.org
-* ⬆️ Pushed 1 commit to lukecarr/ts-dax
-* 🎉 Merged PR #9 in lukecarr/ts-dax
-* 💪 Opened PR #9 in lukecarr/ts-dax
+  * ⬆️ Pushed 1 commit to lukecarr/ts-dax
+* 🎉 Merged PR #11 in lukecarr/ts-dax
+* ❌ Closed PR #10 in lukecarr/ts-dax
+* ❌ Closed PR #8 in lukecarr/ts-dax
 * ⬆️ Pushed 1 commit to lukecarr/ts-dax
 
-  _Last refreshed at 2022-11-03T16:10:31Z_
+  _Last refreshed at 2022-11-03T16:26:15Z_
 </details>
 
 

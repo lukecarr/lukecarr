@@ -41,13 +41,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ❌ Closed PR #7 in lukecarr/www
+  * 📦 Released "v1.1.1" in lukecarr/www
+* ⬆️ Pushed 1 commit to lukecarr/www
+* ❌ Closed PR #7 in lukecarr/www
 * ❌ Closed PR #6 in lukecarr/www
 * 📦 Released "v1.1.0" in lukecarr/www
-* ⬆️ Pushed 1 commit to lukecarr/www
-* ⬆️ Pushed 1 commit to lukecarr/www
 
-  _Last refreshed at 2023-01-02T19:33:39Z_
+  _Last refreshed at 2023-01-02T19:48:37Z_
 </details>
 
 

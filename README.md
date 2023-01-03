@@ -47,7 +47,7 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
 * ❌ Closed PR #6 in lukecarr/www
 * 📦 Released "v1.1.0" in lukecarr/www
 
-  _Last refreshed at 2023-01-03T16:24:28Z_
+  _Last refreshed at 2023-01-03T16:38:41Z_
 </details>
 
 

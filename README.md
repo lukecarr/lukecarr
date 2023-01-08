@@ -6,14 +6,6 @@ As far as open source projects go, I enjoy working on anything and everything re
 
 I currently spend most of my time in Rust and TypeScript, and I take pride in writing code that's lightweight :bulb: and performant :muscle:!
 
-### :telescope: Projects
-
-- **[tiny-todo](https://github.com/lukecarr/tiny-todo)**: A task management tapp (tiny apps)
-- **[Cottonmouth](https://github.com/lukecarr/c9h)**: Zero-config config for Node.js
-- **[Joodle](https://github.com/lukecarr/joodle)**: A Moodle Web Services API client for Node.js
-- **[Ollivander](https://github.com/lukecarr/ollivander)**: A Wonde API client for Node.js
-- **[excellent-choice](https://github.com/lukecarr/excellent-choice)**: Excel-based multiple-choice tests
-
 ### :octocat: My GitHub
 
 <details>
@@ -41,13 +33,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * 📦 Released "v1.1.1" in lukecarr/www
+  * ⬆️ Pushed 1 commit to lukecarr/lukecarr
+* 📦 Released "v1.1.1" in lukecarr/www
 * ⬆️ Pushed 1 commit to lukecarr/www
 * ❌ Closed PR #7 in lukecarr/www
 * ❌ Closed PR #6 in lukecarr/www
-* 📦 Released "v1.1.0" in lukecarr/www
 
-  _Last refreshed at 2023-01-08T14:04:52Z_
+  _Last refreshed at 2023-01-08T14:20:48Z_
 </details>
 
 

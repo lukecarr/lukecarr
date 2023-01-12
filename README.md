@@ -39,7 +39,7 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
 * ❌ Closed PR #7 in lukecarr/www
 * ❌ Closed PR #6 in lukecarr/www
 
-  _Last refreshed at 2023-01-12T03:05:17Z_
+  _Last refreshed at 2023-01-12T03:22:59Z_
 </details>
 
 

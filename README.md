@@ -34,12 +34,12 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <br />
   
   * ⬆️ Pushed 1 commit to subtalegames/rustfmt
-* ⬆️ Pushed 1 commit to subtalegames/skoll
-* ⬆️ Pushed 1 commit to subtalegames/skoll
+* ⬆️ Pushed 1 commit to subtalegames/rustfmt
+* ⬆️ Pushed 1 commit to subtalegames/rustfmt
 * ⬆️ Pushed 1 commit to subtalegames/skoll
 * ⬆️ Pushed 1 commit to subtalegames/skoll
 
-  _Last refreshed at 2023-02-25T18:05:18Z_
+  _Last refreshed at 2023-02-25T18:24:02Z_
 </details>
 
 

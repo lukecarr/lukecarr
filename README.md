@@ -33,13 +33,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ⬆️ Pushed 1 commit to subtalegames/player-prefs
+  * 🗣 Commented on #1 in subtalegames/.github
+* ⬆️ Pushed 1 commit to subtalegames/player-prefs
 * ⬆️ Pushed 1 commit to subtalegames/oss.subtale.com
 * ⬆️ Pushed 1 commit to subtalegames/oss.subtale.com
 * ⬆️ Pushed 1 commit to subtalegames/oss.subtale.com
-* 📦 Released "v0.4.0" in subtalegames/mimir
 
-  _Last refreshed at 2023-02-28T21:21:09Z_
+  _Last refreshed at 2023-02-28T21:34:03Z_
 </details>
 
 

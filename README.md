@@ -39,7 +39,7 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
 * ⬆️ Pushed 1 commit to subtalegames/oss.subtale.com
 * 📦 Released "v0.4.0" in subtalegames/mimir
 
-  _Last refreshed at 2023-02-28T19:48:45Z_
+  _Last refreshed at 2023-02-28T20:05:17Z_
 </details>
 
 

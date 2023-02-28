@@ -35,11 +35,11 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   
   * ⬆️ Pushed 1 commit to subtalegames/oss.subtale.com
 * ⬆️ Pushed 1 commit to subtalegames/oss.subtale.com
+* ⬆️ Pushed 1 commit to subtalegames/oss.subtale.com
 * 📦 Released "v0.4.0" in subtalegames/mimir
 * ⬆️ Pushed 1 commit to subtalegames/mimir
-* 📦 Released "v0.1.0: Initial release" in subtalegames/skoll
 
-  _Last refreshed at 2023-02-28T17:05:09Z_
+  _Last refreshed at 2023-02-28T17:22:09Z_
 </details>
 
 

@@ -39,7 +39,7 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
 * ⬆️ Pushed 1 commit to subtalegames/oss.subtale.com
 * ❌ Closed PR #1 in subtalegames/bragi
 
-  _Last refreshed at 2023-03-10T17:48:38Z_
+  _Last refreshed at 2023-03-10T18:05:35Z_
 </details>
 
 

@@ -39,7 +39,7 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
 * ⬆️ Pushed 1 commit to subtalegames/oss.subtale.com
 * ⬆️ Pushed 1 commit to subtalegames/oss.subtale.com
 
-  _Last refreshed at 2023-03-12T19:48:35Z_
+  _Last refreshed at 2023-03-12T20:05:08Z_
 </details>
 
 

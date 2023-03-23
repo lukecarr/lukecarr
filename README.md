@@ -39,7 +39,7 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
 * ❌ Closed PR #3 in subtalegames/oss.subtale.com
 * ❌ Closed PR #2 in subtalegames/oss.subtale.com
 
-  _Last refreshed at 2023-03-23T11:33:47Z_
+  _Last refreshed at 2023-03-23T11:48:38Z_
 </details>
 
 

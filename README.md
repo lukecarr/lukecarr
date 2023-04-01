@@ -33,13 +33,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ⬆️ Pushed 1 commit to pbilint/pbilint
-* 🎉 Merged PR #5 in pbilint/pbilint
-* ⬆️ Pushed 1 commit to pbilint/pbilint
-* ⬆️ Pushed 1 commit to pbilint/pbilint
-* ⬆️ Pushed 1 commit to pbilint/pbilint
+  * ⬆️ Pushed 1 commit to powerlint/discussion
+* ⬆️ Pushed 1 commit to powerlint/powerlint
+* 🎉 Merged PR #6 in powerlint/powerlint
+* ⬆️ Pushed 1 commit to powerlint/powerlint
+* ⬆️ Pushed 1 commit to powerlint/powerlint
 
-  _Last refreshed at 2023-04-01T13:05:14Z_
+  _Last refreshed at 2023-04-01T13:21:17Z_
 </details>
 
 

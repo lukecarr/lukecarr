@@ -36,10 +36,10 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   * ⬆️ Pushed 1 commit to powerlint/pbix
 * ⬆️ Pushed 1 commit to powerlint/pbix
 * ⬆️ Pushed 1 commit to powerlint/pbix
-* 📦 Released "v0.1.0: Initial release" in powerlint/pbix
+* ⬆️ Pushed 1 commit to powerlint/pbix
 * ⬆️ Pushed 1 commit to powerlint/pbix
 
-  _Last refreshed at 2023-04-11T18:22:51Z_
+  _Last refreshed at 2023-04-11T18:33:52Z_
 </details>
 
 

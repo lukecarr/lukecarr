@@ -33,13 +33,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ⬆️ Pushed 2 commits to subtalegames/oss.subtale.com
+  * ⬆️ Pushed 1 commit to subtalegames/mimir
 * ⬆️ Pushed 1 commit to subtalegames/mimir
 * ⬆️ Pushed 1 commit to subtalegames/mimir
 * ⬆️ Pushed 1 commit to subtalegames/mimir
 * ⬆️ Pushed 1 commit to subtalegames/mimir
 
-  _Last refreshed at 2023-04-25T10:04:58Z_
+  _Last refreshed at 2023-04-25T10:22:26Z_
 </details>
 
 

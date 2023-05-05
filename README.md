@@ -33,13 +33,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ❗️ Opened issue #1 in SergioRibera/bevy_splash_screen
-* ⬆️ Pushed 1 commit to subtalegames/mimir
+  * 🗣 Commented on #1 in SergioRibera/bevy_splash_screen
+* ❗️ Opened issue #1 in SergioRibera/bevy_splash_screen
 * ⬆️ Pushed 1 commit to subtalegames/mimir
 * ⬆️ Pushed 1 commit to subtalegames/mimir
 * ⬆️ Pushed 1 commit to subtalegames/mimir
 
-  _Last refreshed at 2023-05-05T16:05:27Z_
+  _Last refreshed at 2023-05-05T16:23:58Z_
 </details>
 
 

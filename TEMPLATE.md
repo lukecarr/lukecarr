@@ -1,4 +1,4 @@
-<img src="name.svg" />
+![name](https://raw.githubusercontent.com/lukecarr/lukecarr/main/name.svg)
 
 ### :wave: Hi there!
 

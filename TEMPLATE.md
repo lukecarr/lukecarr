@@ -1,3 +1,5 @@
+<img src="name.svg" />
+
 ### :wave: Hi there!
 
 I'm a 21 y/o from the UK, currently working as a Software Developer at Foundever.

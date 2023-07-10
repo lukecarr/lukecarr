@@ -1,5 +1,3 @@
-![name](https://raw.githubusercontent.com/lukecarr/lukecarr/main/name.svg)
-
 ### :wave: Hi there!
 
 I'm a 21 y/o from the UK, currently working as a Software Developer at Foundever.
@@ -41,7 +39,7 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
 * ⬆️ Pushed 1 commit to subtalegames/rustfmt
 * ⬆️ Pushed 1 commit to subtalegames/rustfmt
 
-  _Last refreshed at 2023-07-10T13:24:53Z_
+  _Last refreshed at 2023-07-10T13:36:08Z_
 </details>
 
 

@@ -33,13 +33,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ⬆️ Pushed 1 commit to lukecarr/lukecarr
-* ⬆️ Pushed 1 commit to lukecarr/lukecarr
-* ⬆️ Pushed 1 commit to lukecarr/lukecarr
+  * 📦 Released "v0.2.0" in lukecarr/nightly-check
+* ⬆️ Pushed 2 commits to lukecarr/nightly-check
+* 🎉 Merged PR #4 in lukecarr/nightly-check
 * ⬆️ Pushed 1 commit to lukecarr/lukecarr
 * ⬆️ Pushed 1 commit to lukecarr/lukecarr
 
-  _Last refreshed at 2023-08-06T17:04:40Z_
+  _Last refreshed at 2023-08-06T17:20:01Z_
 </details>
 
 

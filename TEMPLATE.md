@@ -1,8 +1,8 @@
 ### :wave: Hi there!
 
-I'm a 21 y/o from the UK, currently working as a Software Developer at Foundever.
+I'm a 22 y/o from the UK, currently working as a Software Developer at Foundever.
 
-As far as open source projects go, I enjoy working on anything and everything related to education :school:, privacy :eyes:, and data analysis/engineering :card_file_box:.
+As far as open-source projects go, I enjoy working on anything and everything related to education :school:, privacy :eyes:, and data analysis/engineering :card_file_box:.
 
 I currently spend most of my time in Rust and TypeScript, and I take pride in writing code that's lightweight :bulb: and performant :muscle:!
 

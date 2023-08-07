@@ -1,8 +1,8 @@
 ### :wave: Hi there!
 
-I'm a 21 y/o from the UK, currently working as a Software Developer at Foundever.
+I'm a 22 y/o from the UK, currently working as a Software Developer at Foundever.
 
-As far as open source projects go, I enjoy working on anything and everything related to education :school:, privacy :eyes:, and data analysis/engineering :card_file_box:.
+As far as open-source projects go, I enjoy working on anything and everything related to education :school:, privacy :eyes:, and data analysis/engineering :card_file_box:.
 
 I currently spend most of my time in Rust and TypeScript, and I take pride in writing code that's lightweight :bulb: and performant :muscle:!
 
@@ -33,13 +33,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ❗️ Opened issue #6 in lukecarr/nightly-check
-* ❗️ Closed issue #5 in lukecarr/nightly-check
+  * ⬆️ Pushed 1 commit to lukecarr/lukecarr
 * ⬆️ Pushed 1 commit to lukecarr/nightly-check
-* ❗️ Opened issue #5 in lukecarr/nightly-check
 * ⬆️ Pushed 1 commit to lukecarr/nightly-check
+* ⬆️ Pushed 3 commits to lukecarr/nightly-check
+* 🎉 Merged PR #8 in lukecarr/nightly-check
 
-  _Last refreshed at 2023-08-07T10:34:12Z_
+  _Last refreshed at 2023-08-07T10:48:46Z_
 </details>
 
 

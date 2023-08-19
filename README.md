@@ -33,13 +33,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * 🎉 Merged PR #18 in subtalegames/mimir
+  * ⬆️ Pushed 2 commits to lukecarr/mimir
+* 🎉 Merged PR #18 in subtalegames/mimir
 * ⬆️ Pushed 2 commits to subtalegames/mimir
 * 💪 Opened PR #18 in subtalegames/mimir
 * ⬆️ Pushed 1 commit to lukecarr/mimir
-* ⬆️ Pushed 2 commits to subtalegames/mimir
 
-  _Last refreshed at 2023-08-19T18:33:50Z_
+  _Last refreshed at 2023-08-19T18:48:37Z_
 </details>
 
 

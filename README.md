@@ -34,12 +34,12 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <br />
   
   * ⬆️ Pushed 1 commit to lukecarr/trophies
+* ⬆️ Pushed 1 commit to lukecarr/trophies
+* ⬆️ Pushed 1 commit to lukecarr/trophies
 * ⬆️ Pushed 3 commits to lukecarr/trophies
 * ⬆️ Pushed 1 commit to lukecarr/trophies
-* ⬆️ Pushed 1 commit to lukecarr/trophies
-* ⬆️ Pushed 1 commit to lukecarr/trophies
 
-  _Last refreshed at 2023-09-03T11:33:39Z_
+  _Last refreshed at 2023-09-03T11:48:40Z_
 </details>
 
 

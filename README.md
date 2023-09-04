@@ -35,11 +35,11 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   
   * ⬆️ Pushed 1 commit to lukecarr/trophies
 * ⬆️ Pushed 1 commit to lukecarr/trophies
-* ⬆️ Pushed 2 commits to lukecarr/trophies
 * ⬆️ Pushed 1 commit to lukecarr/trophies
-* 📦 Released "v0.1.0-alpha.8" in lukecarr/trophies
+* ⬆️ Pushed 1 commit to lukecarr/trophies
+* ⬆️ Pushed 2 commits to lukecarr/trophies
 
-  _Last refreshed at 2023-09-04T20:33:48Z_
+  _Last refreshed at 2023-09-04T20:48:43Z_
 </details>
 
 

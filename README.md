@@ -33,13 +33,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * 💪 Opened PR #4 in subtalegames/cortex
+  * 📦 Released "v0.2.0" in subtalegames/sol
+* ⬆️ Pushed 2 commits to subtalegames/sol
+* 💪 Opened PR #4 in subtalegames/cortex
 * ❗️ Closed issue #3 in subtalegames/cortex
 * ⬆️ Pushed 1 commit to subtalegames/cortex
-* ❗️ Opened issue #3 in subtalegames/cortex
-* ⬆️ Pushed 1 commit to subtalegames/discussions
 
-  _Last refreshed at 2023-09-15T09:33:52Z_
+  _Last refreshed at 2023-09-15T09:48:43Z_
 </details>
 
 

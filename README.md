@@ -38,7 +38,7 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
 * 🗣 Commented on #2835 in colinhacks/zod
 * 🗣 Commented on #2836 in colinhacks/zod
 
-  _Last refreshed at 2023-12-16T04:22:50Z_
+  _Last refreshed at 2023-12-16T04:34:06Z_
 </details>
 
 

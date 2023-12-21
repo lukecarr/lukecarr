@@ -2,7 +2,7 @@
 
 I'm a 22 y/o from the UK, currently working as a Software Developer at Met Office.
 
-As far as open-source projects go, I enjoy working on anything and everything related to education :school:, privacy :eyes:, and data analysis/engineering :card_file_box:.
+As far as open-source projects go, I enjoy working on anything and everything related to game development :video_game: (see [Subtale](https://github.com/subtalegames)), privacy :eyes:, and data analysis/engineering :card_file_box:.
 
 I currently spend most of my time in Rust and TypeScript, and I take pride in writing code that's lightweight :bulb: and performant :muscle:!
 
@@ -12,37 +12,26 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:bar_chart: Profile Stats</strong></summary>
   <br />
   
-  ![GitHub Stats](https://gh-stats-jarrl.vercel.app/api?show_icons=true)
+  ![GitHub Stats](https://readme-stats.carr.sh/api?show_icons=true&username=lukecarr)
 </details>
 
 <details>
   <summary><strong>:speaking_head: Languages</strong></summary>
   <br />
   
-  ![GitHub Languages](https://gh-stats-jarrl.vercel.app/api/top-langs?layout=compact&hide_title=true&langs_count=10)
+  ![GitHub Languages](https://readme-stats.carr.sh/api/top-langs?layout=compact&hide_title=true&langs_count=10&username=lukecarr)
 </details>
 
 <details>
   <summary><strong>:fire: Current Streak</strong></summary>
   <br />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lukecarr&include_all_commits=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=lukecarr&hide_border=true)
 </details>
 
 <details>
-  <summary><strong>:zap: Recent Activity</strong></summary>
+  <summary><strong>:pushpin: Holopin Badges</strong></summary>
   <br />
-  
-  * ⬆️ Pushed 728 commits to lukecarr/github-readme-stats
-* 📦 Released "v1.1.5" in lukecarr/www
-* ⬆️ Pushed 2 commits to lukecarr/www
-* 🎉 Merged PR #9 in lukecarr/www
-* ⬆️ Pushed 2 commits to lukecarr/www
 
-  _Last refreshed at 2023-12-21T23:33:56Z_
+  [![@lukecarr's Holopin board](https://holopin.me/lukecarr)](https://holopin.io/@lukecarr)
 </details>
-
-
-### :pushpin: Holopin Badges
-
-[![@lukecarr's Holopin board](https://holopin.me/lukecarr)](https://holopin.io/@lukecarr)

@@ -1,6 +1,6 @@
 ### :wave: Hi there!
 
-I'm a 22 y/o from the UK, currently working as a Software Developer at Foundever.
+I'm a 22 y/o from the UK, currently working as a Software Developer at Met Office.
 
 As far as open-source projects go, I enjoy working on anything and everything related to education :school:, privacy :eyes:, and data analysis/engineering :card_file_box:.
 
@@ -33,12 +33,13 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:zap: Recent Activity</strong></summary>
   <br />
   
-  * ⬆️ Pushed 1 commit to lukecarr/flask-htmx-tailwind
+  * ⬆️ Pushed 1 commit to lukecarr/www
+* ⬆️ Pushed 1 commit to lukecarr/lukecarr
+* ⬆️ Pushed 1 commit to lukecarr/flask-htmx-tailwind
 * 🗣 Commented on #65 in tesselode/kira
 * 🗣 Commented on #2835 in colinhacks/zod
-* 🗣 Commented on #2836 in colinhacks/zod
 
-  _Last refreshed at 2023-12-21T23:05:06Z_
+  _Last refreshed at 2023-12-21T23:20:50Z_
 </details>
 
 

@@ -1,6 +1,6 @@
 ### :wave: Hi there!
 
-I'm a 22 y/o from the UK, currently working as a Software Developer at Foundever.
+I'm a 22 y/o from the UK, currently working as a Software Developer at Met Office.
 
 As far as open-source projects go, I enjoy working on anything and everything related to education :school:, privacy :eyes:, and data analysis/engineering :card_file_box:.
 

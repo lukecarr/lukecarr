@@ -1,6 +1,6 @@
 ### :wave: Hi there!
 
-I'm a 22 y/o from the UK, currently working as a Software Developer at Met Office.
+I'm a 23 y/o from the UK, currently working as a Software Developer at Met Office.
 
 As far as open-source projects go, I enjoy working on anything and everything related to game development :video_game: (see [Subtale](https://github.com/subtalegames)), privacy :eyes:, and data analysis/engineering :card_file_box:.
 
@@ -12,14 +12,14 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:bar_chart: Profile Stats</strong></summary>
   <br />
   
-  ![GitHub Stats](https://readme-stats.carr.sh/api?show_icons=true&username=lukecarr)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=lukecarr)
 </details>
 
 <details>
   <summary><strong>:speaking_head: Languages</strong></summary>
   <br />
   
-  ![GitHub Languages](https://readme-stats.carr.sh/api/top-langs?layout=compact&hide_title=true&langs_count=10&username=lukecarr)
+  ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?layout=compact&hide_title=true&langs_count=10&username=lukecarr)
 </details>
 
 <details>
@@ -27,11 +27,4 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <br />
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=lukecarr&hide_border=true)
-</details>
-
-<details>
-  <summary><strong>:pushpin: Holopin Badges</strong></summary>
-  <br />
-
-  [![@lukecarr's Holopin board](https://holopin.me/lukecarr)](https://holopin.io/@lukecarr)
 </details>

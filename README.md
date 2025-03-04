@@ -26,5 +26,5 @@ I currently spend most of my time in Rust and TypeScript, and I take pride in wr
   <summary><strong>:fire: Current Streak</strong></summary>
   <br />
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=lukecarr&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=lukecarr)
 </details>

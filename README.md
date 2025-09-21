@@ -1,6 +1,6 @@
 ### :wave: Hi there!
 
-I'm a 24 y/o from the UK, currently working on API Security at Cloudflare as a Systems Engineer.
+My name's Luke! I'm based in the UK, and I'm currently working on API Security at Cloudflare as a Systems Engineer.
 
 As far as open-source projects go, I enjoy working on anything and everything related to game development :video_game: (see [Subtale](https://github.com/subtalegames)), privacy :eyes:, and data analysis/engineering :card_file_box:.
 
